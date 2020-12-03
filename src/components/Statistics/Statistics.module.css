@@ -1,0 +1,25 @@
+.statistics {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  max-width: 300px;
+  cursor: pointer;
+  background-color: #fff;
+  box-shadow: var(--boxShadow);
+}
+
+.title {
+  text-align: center;
+  padding: 10px;
+}
+
+.list {
+  display: flex;
+}
+
+.item {
+  padding: 11px;
+  width: 50px;
+  font-weight: bold;
+  color: #fff;
+}
