@@ -1,0 +1,7 @@
+.list {
+  margin-top: 50px;
+}
+
+.list > .item + .item {
+  margin-bottom: 15px;
+}
