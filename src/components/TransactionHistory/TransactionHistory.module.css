@@ -1,0 +1,19 @@
+.transaction {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  box-shadow: var(--boxShadow);
+}
+
+.head {
+  background-color: rgb(0, 183, 255);
+}
+
+.type {
+  padding: 15px;
+  width: 150px;
+}
+
+.tableBody {
+  text-align: center;
+}
